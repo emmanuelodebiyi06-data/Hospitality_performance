@@ -1,4 +1,4 @@
-# Hospitality Performance & Guest Behavior Analytics
+# Hospitality Performance & Guest Behavior Analytics with PowerBI
 
 ##  Project Overview
 This project features a comprehensive **Power BI** dashboard designed to provide actionable insights for hotel management. By analyzing a massive customer base of **83,590 guests**, this tool tracks revenue performance, booking preferences, and demographic stay patterns to drive business growth.
