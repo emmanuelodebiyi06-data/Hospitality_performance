@@ -19,4 +19,4 @@ This project features a comprehensive **Power BI** dashboard designed to provide
 * **DAX Formulas**: Implemented measures for Average Nights, Total Revenue, and Percentage splits.
 
 ## Visuals
-![Hospitality Dashboard](Screenshot_2026-03-03_184146.png)
+![Hospitality Dashboard](Hospitality_dashboard.png)
